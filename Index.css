@@ -1,0 +1,89 @@
+header{
+    width: 100%;
+    height: 100px;
+    background: #000000;
+}
+#logo{
+    float: left;
+    padding-top: 25px;
+    padding-left: 25px;
+    width: 50px;
+    height: 50px;
+}
+#titulo{
+    color: #FF0000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+#menu{
+    float: left;
+    padding-top: 20px;
+    padding-left: 440px;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-decoration: none;
+    color: #ffffff;
+    padding-left: 50px;
+}
+#carro{
+    float: right;
+    padding-top: 25px;
+    padding-right: 25px;
+    width: 50px;
+    height: 50px;
+}
+section{
+    width: 100%;
+    height: 200px;
+    background: #913535;
+}
+#lorem{
+    float: left;
+    padding-left: 20px;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background: #64525279;
+}
+p{
+    float: left;
+    padding-top: 40px;
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#pngTel{
+    float: left;
+    padding-top: 50px;
+    padding-left: 30px;
+    width: 25px;
+    height: 30px;
+}
+#pngInsta{
+    padding-top: 50px;
+    padding-left: 30px;
+    float: left;
+    width: 30px;
+    height: 30px;
+}
+#pngFb{
+    padding-top: 45px;
+    padding-left: 30px;
+    float:left;
+    width: 40px;
+    height: 40px;
+}
+#copy{
+    padding-top: 45px;
+    padding-right: 10px;
+    float: right;
+    width: 60px;
+    height: 30px;
+}
